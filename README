@@ -1,0 +1,13 @@
+Utilização:
+- Servidor
+./tcpS <ip> <porta>
+
+Exemplo:
+./tcpS 172.31.157.65 5003
+
+
+- Cliente
+./tcpS <ip> <porta> <operação sem espaço (ex:10+34)  ou entre aspas (ex: "200 / 30") >
+
+Exemplo:
+./tcpS 172.31.157.65 5003 
